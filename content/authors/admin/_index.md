@@ -65,13 +65,13 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently a Final Year Undergraduate at <a href=https://mnnit.ac.in>Motilal Nehru National Institute of Technology</a> in the Department of Computer Science and Engineering. My research interests lie primarily in the field of Systems and Networks. I had worked under <a href=http://www.mnnit.ac.in/images/csedfp/mpandey/>Prof. Mayank Pandey</a> devising p2p Secure Video Conferencing and Live Streaming Over Internet Enabled Devices.
+I am currently a Final Year Undergraduate at <a href=https://mnnit.ac.in>Motilal Nehru National Institute of Technology</a> in the Department of Computer Science and Engineering. My research interests lie primarily in the field of Systems and Networks. I had worked with <a href=http://www.mnnit.ac.in/images/csedfp/mpandey/>Prof. Mayank Pandey</a> devising p2p Secure Video Conferencing and Live Streaming Over Internet Enabled Devices.
 
 I was advised by Supervisor <a href=http://www.mnnit.ac.in/images/newstories/2020/csed/NAVJOT_SINGH_MNNIT_M20.pdf>Prof. Navjot Singh</a> in the field of Image Processing and Visual Cryptography. I have theorized and implemented Enchanced Security Architecture for Visual Cryptography based on Image Secret Sharing, which provides novel approach to Visual Cryptography.
 
 I was fortunate enough to be given the oppurtunity to have state of the art startup incubator <a href=https://tqb.li2.in/thingqbator-mnnit>CISCO THINGQBATOR</a> at MNNIT, where i pitched my idea in the COHORT I and my project Smart and Secure Vehicle Automatic Collision Detection and Collision Avoidance got selected for mentorship and funding.
 
-I have previously spent time as a Software Engineering Intern at UnitedHealth Group, Hyderabad gaining Industry Experience.
+I have previously spent time as a Software Engineering Intern at <a href=https://www.unitedhealthgroup.com>UnitedHealth Group</a> gaining Industry Experience. 
 
 My current research work lies in:
 - Systems and Networks
