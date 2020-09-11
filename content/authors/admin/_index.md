@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Btech in Information Technology, 2017
+  - course: Btech in Information Technology
     institution: Motilal Nehru National Institute of Technology Allahabad
     year: 2021
 
