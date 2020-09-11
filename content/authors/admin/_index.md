@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Manas Abhilash Gundapuneni
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Final year Undergrad
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Motilal Nehru National Institute of Technology Allahabad
+  url: "https://www.mnnit.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Networks
+- Operating Systems
+- Data Centric Routing
+- Image Processing
+- Software Defined Networks
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Btech in Information Technology, 2017
+    institution: Motilal Nehru National Institute of Technology Allahabad
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,7 +65,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Final Year Undergraduate at <a href=https://mnnit.ac.in>Motilal Nehru National Institute of Technology</a> in the Department of Computer Science and Engineering advised by Supervisor <a href=http://www.mnnit.ac.in/images/newstories/2020/csed/NAVJOT_SINGH_MNNIT_M20.pdf>Prof. Navjot Singh</a>. My area of research is mainly in Systems and Networks. Im also working in Image Processing and Visual Cryptography even though they happen to be away from my research area. My primary research includes, Enchanced Security Architecture for Visual Cryptography based on Image Secret Sharing, which provides novel approach to Visual Cryptography, I had also worked under <a href=http://www.mnnit.ac.in/images/csedfp/mpandey/>Prof. Mayank Pandey</a> in the area of Operating Systems and Computer Networks, our work in area is,P2P SECURE VIDEO CONFERENCING AND LIVE STREAMING OVER INTERNET ENABLED DEVICES. I was fortunate enough to be given the oppurtunity to have state of the art starup incubator <a href=https://tqb.li2.in/thingqbator-mnnit>CISCO THINGQBATOR</a> at MNNIT, where i pitched my idea in the COHORT I and my project SMART n SECURE VEHICLE AUTOMATIC COLLISION DETECTION AND COLLISION AVOIDANCE got selected for mentorship and funding.
